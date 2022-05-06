@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Account</string>
+    <string name="cancel_authorization">cancel_authorization</string>
+    <string name="sign_out">sign_out</string>
+</resources>
